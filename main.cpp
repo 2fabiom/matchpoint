@@ -9,6 +9,7 @@ using namespace std;
 class JogoPadel {
     int pontosA;
     int pontosB;
+ 
 
 public:
      JogoPadel () {
